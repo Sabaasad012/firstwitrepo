@@ -1,1 +1,2 @@
 This is 1st testing file.
+This line I added after the git add .
